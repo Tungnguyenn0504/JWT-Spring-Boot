@@ -49,41 +49,7 @@
   </developers>
 
   <modules>
-    <module>spring-configuration-properties</module>
-    <module>jpa-hibernate-one-to-one</module>
-    <module>jpa-hibernate-one-to-many</module>
-    <module>jpa-hibernate-many-to-many</module>
-    <module>spring-security-example</module>
-    <module>spring-security-hibernate</module>
     <module>spring-security-hibernate-jwt</module>
-    <module>spring-redis</module>
-    <module>basic-dependency-loosely-coupled</module>
-    <module>spring-boot-webflux</module>
-    <module>spring-cloud-config-server</module>
-    <module>spring-cloud-config-client</module>
-    <module>spring-boot-5-Component-Scan</module>
-    <module>spring-boot-7-spring-application-properties-@Value</module>
-    <module>spring-boot-8-@Controller-web-helloworld</module>
-    <module>spring-boot-@Lazy-Anotation</module>
-    <module>spring-boot-9-thymeleaf</module>
-    <module>spring-boot-11-JPA-MySQL</module>
-    <module>spring-boot-13-spring-boot-thymeleaf-mysql-web</module>
-    <module>spring-boot-16-@ConfigurationProperties</module>
-    <module>spring-boot-17-spring-profiles</module>
-    <module>spring-boot-18-testing-in-spring-boot</module>
-    <module>hibernate-and-hibernate-only</module>
-    <module>spring-boot-@Conditional</module>
-    <module>spring-boot-@Conditional-2-custom-conditional</module>
-    <module>spring-boot-application-context-events</module>
-    <module>spring-boot-jpa-auditing</module>
-    <module>jpa-hibernate-pageable</module>
-    <module>jpa-hibernate-specifications</module>
-    <module>jpa-hibernate-criteria</module>
-    <module>spring-boot-swagger2</module>
-    <module>spring-boot-swagger3-openapi3</module>
-    <module>jpa-hibernate-custom-validation</module>
-    <module>test-mockito-basic</module>
-    <module>spring-boot-19-testing-in-spring-boot-2</module>
   </modules>
 
   <properties>
